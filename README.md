@@ -1,2 +1,2 @@
 # jae2020test
-get to know
+get to know github
